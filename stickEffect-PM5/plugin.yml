@@ -1,0 +1,8 @@
+---
+name: stickEffect-PM5
+version: 1.0.0
+main: wax_dev\stickEffect_PM5\Main
+author: wax_dev
+api: 5.6.0
+src-namespace-prefix: wax_dev\stickEffect_PM5
+...
